@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Turn%20It%20in.html"
+    }
+  ]
+}
